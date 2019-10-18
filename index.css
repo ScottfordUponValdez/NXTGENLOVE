@@ -1,0 +1,19 @@
+h1{
+  background: linear-gradient(90deg, #A3F2A8, #04B910, #A3F2A8);
+  text-align: center;
+  font-size: 110px;
+  font-family: "Gloria Hallelujah";
+}
+body{
+  background-color: #CCFFCC;
+}
+h2{
+  font-size: 50px;
+}
+p{
+  font-size: 30px;
+}
+h3{
+  font-size: 50px;
+  text-align: center;
+}
